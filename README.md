@@ -1,3 +1,10 @@
-This repository contains several projects conducted during my Master's Programme and in my free time.
+📂 Repository Overview
+This repository showcases various projects developed during my Master's program and personal research endeavors.
 
-It include projects using Deep Learning, Tree-Based Models, traditional NLP (i.e., non Gen-AI), as well as synthetic data generation projects.
+📌 Included Projects:
+🔹 Deep Learning models 🧠
+🔹 Tree-based Machine Learning approaches 🌳
+🔹 Traditional NLP techniques (excluding Generative AI) 📝
+🔹 Synthetic Data Generation 📊
+
+These projects demonstrate expertise in diverse machine learning techniques and their practical applications. 🚀

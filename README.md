@@ -1,6 +1,7 @@
 # 📂 Repository Overview  
 
 This repository showcases various projects developed during my **Master's program** and **personal research endeavors**.
+
 Pending to upload: 
 - Fraud Detection with several models (will be released this week!)
 - Credit card default propensity prediction (will be released this week!)

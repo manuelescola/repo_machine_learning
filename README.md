@@ -4,7 +4,6 @@ This repository showcases various projects developed during my **Master's progra
 
 Pending to upload: 
 - Fraud Detection with several models **(will be released this week!)**
-- Credit card default propensity prediction **(will be released this week!)**
 
 ## 📌 Included Projects  
 - 🔹 **Deep Learning** models 🧠  
